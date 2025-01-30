@@ -7,7 +7,6 @@ $result = mysqli_query($conn, "SELECT * FROM users");
 <html lang="id">
 <head>
     <title>Data Users</title>
-    <link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
 </head>
 <body>
     <h2>Data Users</h2>
